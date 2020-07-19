@@ -18,13 +18,19 @@
 
 
 
-# ACG
+# ACG Vedio
 
 ### 你的名字
 
 #### 链接：[https://cdn.jsdelivr.net/gh/linvideo/m3u8/yourname/playlist.m3u8](https://cdn.jsdelivr.net/gh/linvideo/m3u8/yourname/playlist.m3u8)
 
 #### 直接播放：[戳这](https://www.m3u8play.com/?play=https://cdn.jsdelivr.net/gh/linvideo/m3u8/yourname/playlist.m3u8)
+
+### 天气之子
+
+#### 链接：[https://cdn.jsdelivr.net/gh/linvideo/m3u8/Weathering.with.You/playlist.m3u8](https://cdn.jsdelivr.net/gh/linvideo/m3u8/Weathering.with.You/playlist.m3u8)
+
+#### 直接播放：[戳这](https://www.m3u8play.com/?play=https://cdn.jsdelivr.net/gh/linvideo/m3u8/Weathering.with.You/playlist.m3u8)
 
 
 ### 未完待续。。。。。
