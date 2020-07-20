@@ -22,6 +22,12 @@
 
 #### 直接播放：[戳这](https://www.m3u8play.com/?play=https://cdn.jsdelivr.net/gh/linvideo/p-03/playlist.m3u8)
 
+### 滑轮01
+
+#### 链接：[https://cdn.jsdelivr.net/gh/linvideo/p-04/playlist.m3u8](https://cdn.jsdelivr.net/gh/linvideo/p-04/playlist.m3u8)
+
+#### 直接播放：[戳这](https://www.m3u8play.com/?play=https://cdn.jsdelivr.net/gh/linvideo/p-04/playlist.m3u8)
+
 
 
 # ACG Vedio
